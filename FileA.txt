@@ -1,2 +1,3 @@
 This is FileA.
 changes done in file A.
+change done in clone
